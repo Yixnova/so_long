@@ -21,4 +21,4 @@ For the graphics part of the project we used a library called ``minilibx``. It's
 
 ## Gameplay
 
-Pressing the ``ESC``/``Q`` key ends the game. If the arrow keys ``⬆️``. If the arrow keys ``⬅️``, ``⬇️``, ``➡️`` are pressed, the Player on the map will change its orientation and try to move in that direction. If the Player reaches the exit and there are no collectibles left, the game ends and the system automatically exits.
+Pressing the ``ESC``/``Q`` key ends the game. If the arrow keys ``⬆️``,``⬅️``, ``⬇️``, ``➡️`` are pressed, the Player on the map will change its orientation and try to move in that direction. If the Player reaches the exit and there are no collectibles left, the game ends and the system automatically exits.
