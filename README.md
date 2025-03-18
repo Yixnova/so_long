@@ -1,5 +1,5 @@
 # so_long
-
+https://github.com/user-attachments/assets/9a6f818a-4533-47d9-bc0e-5a050c5f93db
 ## Introduction
 In this project, we will code a simple 2D game with a limited mlx library.
 
